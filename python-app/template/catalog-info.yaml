@@ -5,6 +5,7 @@ metadata:
   description: Python app for Udemy training
   annotations:
     github.com/project-slug: TMcManemy/${{values.app_name}}
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development

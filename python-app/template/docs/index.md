@@ -1,0 +1,3 @@
+# ${{values.app_name}}
+
+Lorem ipsum...
